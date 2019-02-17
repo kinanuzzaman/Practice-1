@@ -1,0 +1,24 @@
+body{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+.height{
+  /*height: 1000px*/
+  min-height: 100vh;
+}
+.title-underline{
+  width: 200px;
+  height: 10px;
+  margin: 0 auto;
+
+}
+.heght-80{
+    min-height: 80vh;
+}
+.about-picture{
+  background: url(../img/computer.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
